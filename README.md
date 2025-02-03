@@ -23,7 +23,6 @@ This project focuses on analyzing Fetch’s transaction, user, and product data 
 - Validate barcode mappings to ensure data accuracy.
 
 ## 📂 Project Structure
-- `data/` - Contains the raw CSV files (Users, Transactions, Products).
 - `notebooks/` - Jupyter Notebook with data cleaning, analysis, and visualizations.
 - `README.md` - This file.
 
